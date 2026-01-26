@@ -269,6 +269,9 @@ Now Status On Event Logs ?
 4. Applying Module Stomping capability.
 5. Encrypted shellcode Injection to avoid Kernel triggered memory scans ([Caro-Kann](https://github.com/S3cur3Th1sSh1t/Caro-Kann)).
 
+### Detection of stack spoofing technique (as mentioned in one of my workshop/talk):
+
+<img width="1093" height="991" alt="image" src="https://github.com/user-attachments/assets/b8bd6a06-2714-42ed-9765-40a58883e3ae" />
 
 ### Major Thanks for helping me out (Directly/indirectly (pun NOT intended :))):
 
